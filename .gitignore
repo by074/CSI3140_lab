@@ -1,0 +1,9 @@
+# Local credentials, full-site backups, and runtime data.
+TestAccounts.txt
+moodle.sql
+config.php
+moodledata/
+node_modules/
+.env
+.env.*
+!.env.example

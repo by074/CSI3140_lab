@@ -73,4 +73,3 @@ Record actual results and screenshots when running this checklist. No completed 
 ## Limitations
 
 No pagination, email notifications, attachments, status audit history, or Moodle privacy API provider is implemented. The plugin stores user-linked request data and needs additional review before production use. It is supplied as a local laboratory project.
-
